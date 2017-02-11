@@ -1,0 +1,12 @@
+## Diretorio
+
+HomeDir=/home/alexeiev/TestShell
+Db=$HomeDir/Db
+DbNome=$Db/Nome.db
+
+
+
+## Variaveis Input
+Nome=""
+End=""
+Tel=""
